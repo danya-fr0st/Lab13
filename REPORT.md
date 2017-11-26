@@ -29,5 +29,5 @@ First name: Danya
 Last name: Frostov
 Email: DanyaFrostov@ya.ru
 Age: 18
-Phone: "8(495)111-11-11"
+Phone: 8(495)111-11-11
 ```
