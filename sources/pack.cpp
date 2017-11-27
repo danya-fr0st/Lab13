@@ -20,7 +20,7 @@ struct Person {
 };
 
 Person getInfo() {
-	//struct Person file;
+	struct Person file;
 	//cout << "Enter data to fields of the Person structure." << endl;
 	//cout << "First name:" << endl;
 	//cin >> file.first_name;
