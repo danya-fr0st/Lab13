@@ -20,18 +20,18 @@ struct Person {
 };
 
 Person getInfo() {
-	struct Person file;
-	cout << "Enter data to fields of the Person structure." << endl;
-	cout << "First name:" << endl;
-	cin >> file.first_name;
-	cout << "Last name:" << endl;
-	cin >> file.last_name;
-	cout << "Email:" << endl;
-	cin >> file.email.nickname;
-	cout << "Age(optional):" << endl;
-	cin >> file.age;
-	cout << "Phone(optional):" << endl;
-	cin >> file.phone;
+	//struct Person file;
+	//cout << "Enter data to fields of the Person structure." << endl;
+	//cout << "First name:" << endl;
+	//cin >> file.first_name;
+	//cout << "Last name:" << endl;
+	//cin >> file.last_name;
+	//cout << "Email:" << endl;
+	//cin >> file.email.nickname;
+	//cout << "Age(optional):" << endl;
+	//cin >> file.age;
+	//cout << "Phone(optional):" << endl;
+	//cin >> file.phone;
 	file.first_name = "Danya";
 	file.last_name = "Frostov";
 	file.email.nickname = "DanyaFrostov@ya.ru";
